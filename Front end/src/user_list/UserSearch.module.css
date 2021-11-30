@@ -1,0 +1,37 @@
+.my_input{
+    max-width: 65%;
+    height: 32px;
+    font-size: 11px;
+    background-color: transparent;
+    border: 1px solid pink;
+
+    
+}
+.my_input:focus{
+    outline: none;
+}
+.my_btn{
+    /* max-height: a; */
+    background-color: transparent;
+    width: 25%;
+    font-size: 25px;
+    text-align: center;
+    font-weight: 400;
+    /* margin: 5px;
+     */
+     padding: 15px;
+    /* max-width: 100px; */
+    border: 1px solid pink;
+    /* outline:rebeccapurple; */
+    /* background-color: #fbd8c9; */
+}
+
+.my_bg{
+    background-color: #fbd8c9;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 25px;
+}
+.my_up_bg{
+    background-color: pink;
+}

@@ -1,0 +1,90 @@
+.my-back-color{
+    background-color: #ffe8e5;
+}
+.my-back-color-1{
+    background-color: #fbd8c9;
+}
+
+.hed{
+    flex: 0 1 auto;
+}
+
+.men{
+    flex: 1 1 auto;
+    overflow: auto;
+    
+}
+::-webkit-scrollbar {
+    width: 5px;
+  }
+  
+  /* Track */
+  /* ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey; 
+    border-radius: 10px;
+  } */
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #fdb0c0; 
+    border-radius: 10px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #b30000; 
+  }
+
+.foot{
+    flex: 0 1 50px;
+}
+
+.image-height-width{
+    width: 50px;
+    height: 50px;
+}
+.my-font{
+    font-size: 14px;
+    font-weight: bolder;
+}
+.my-font-1{
+    font-size: 12px;
+    font-weight: lighter;
+    font-style: normal;
+}
+
+.my-input{
+    border-radius: 25px;
+    height: 23px;
+    max-width: 175px;
+    background: transparent;
+    /* border: 1px thin; */
+    border: 1px solid red;
+    font-size: 10px;
+}
+/* .my-input:focus{
+    border: 2px solid yellowgreen;
+    background: transparent;
+    box-shadow : none;
+    
+} */
+
+.my-button{
+    font-size: 14px;
+    max-width: 200px;
+    align-self: auto;
+}
+
+/* ----------All user--------------- */
+.all-user{
+    max-width: 100px;
+    min-height: 100px;
+}
+
+.my-font-all-user{
+    font-size: 10px;
+}
+
+.my-font-all-user1{
+    font-size: 13px;
+}

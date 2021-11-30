@@ -1,0 +1,34 @@
+.my_input{
+    background-color: transparent;
+    background-color: #fbd8c9;
+
+    border-radius: 25px;
+    max-height: 50px;
+    /* border: 2px solid tomato; */
+    border-style: none;
+    font-size: 13px;
+    resize: none;
+    /* background-color: red; */
+    /* width: 100%; */
+   
+
+}
+.my_input:focus{
+    outline: none;
+    /* background-color: rebeccapurple; */
+}
+
+.my_around{
+
+    margin: 10px;
+    border: 2px solid pink;
+    background-color: #fbd8c9;
+    border-radius: 50px;
+}
+
+.my_btn{
+    border-radius: 50px;
+    border: 1px solid pink;
+    background-color: #fbd8c9;
+    font-weight: bold;
+}
