@@ -1,4 +1,5 @@
-This application uses the socket.io library for real time chatting or data transfer. 
+This App show the user near by new with access of location.
+User can chat with firend and parllely they play the tic tac toe game.
 
 Feature 
 1.seen user near by you. 
