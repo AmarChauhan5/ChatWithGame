@@ -19,7 +19,7 @@ Feature
 6.Notification.
 <br />
 
-# Output
+# ScreenShot
 ![image](https://user-images.githubusercontent.com/63333015/144015871-4416cbab-b6f7-4000-b951-11794e976f55.png)
 ![image](https://user-images.githubusercontent.com/63333015/144016024-2d4d5eb7-0851-49f7-9493-2e5f069ab955.png)
 ![image](https://user-images.githubusercontent.com/63333015/144016158-fab17149-3f84-45cf-a4ef-d13a38cabe0b.png)
