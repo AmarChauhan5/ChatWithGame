@@ -2,7 +2,10 @@
 This App show the user near by you with the help your current location.
 <br />
 User can chat with firend and parllely they play the tic tac toe game.
-<br />
+
+
+### Frontend Using React.js library.
+### Backend using express.js framework.
 
 ## Feature
 1.seen user near by you. 
