@@ -4,8 +4,7 @@ This App show the user near by you with the help your current location.
 User can chat with firend and parllely they play the tic tac toe game.
 <br />
 
-Feature 
-<br />
+## Feature
 1.seen user near by you. 
 <br />
 2.chat with friends. 
@@ -19,7 +18,7 @@ Feature
 6.Notification.
 <br />
 
-# ScreenShot
+## ScreenShot
 ![image](https://user-images.githubusercontent.com/63333015/144015871-4416cbab-b6f7-4000-b951-11794e976f55.png)
 ![image](https://user-images.githubusercontent.com/63333015/144016024-2d4d5eb7-0851-49f7-9493-2e5f069ab955.png)
 ![image](https://user-images.githubusercontent.com/63333015/144016158-fab17149-3f84-45cf-a4ef-d13a38cabe0b.png)
