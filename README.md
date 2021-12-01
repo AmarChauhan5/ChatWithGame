@@ -1,6 +1,5 @@
 # Web Chat Application With tic tac toe Game
-This App show the user near by you with the help your current location.
-<br />
+This App show the user near by you with the help of your current location.\
 User can chat with firend and parllely they play the tic tac toe game.
 
 
